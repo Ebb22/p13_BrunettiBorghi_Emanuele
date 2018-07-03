@@ -1,6 +1,6 @@
 # p13_BrunettiBorghi_Emanuele
 
-#Sistema di Prenotazione Spesa On-Line
+Sistema di Prenotazione Spesa On-Line
 
 Come importare il progetto in Eclipse:
 -Scaricarlo in formato .zip
